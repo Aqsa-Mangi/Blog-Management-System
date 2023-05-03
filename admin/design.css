@@ -1,0 +1,21 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: beige;	
+}
+table tr th{
+	background-color: lightsteelblue;
+	color: black;
+}
+h2{
+	text-align: center;
+	color: brown;
+}
+.row{
+	clear: both;
+}
+.col{
+	width: 100%;
+	float: left;
+	text-align: right;
+}
